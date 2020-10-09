@@ -1,13 +1,13 @@
-Por necessidade de fazer um select a partir de uma lista de +20000 registros em um txt,
-criei este script para ajudar na montagem da query.
+Por necessidade de fazer um select a partir de uma lista de +20000 registros em um txt,<br />
+criei este script para ajudar na montagem da query.<br />
 
-exemplo de layout do txt:
+exemplo de layout do txt:<br />
 
-DIEGOGEBER
-USER_1
-USER_2
-USER_3
-.
-.
-.
+DIEGOGEBER<br />
+USER_1<br />
+USER_2<br />
+USER_3<br />
+.<br />
+.<br />
+.<br />
 USER_UNTIL_WHERE_YOUR_MEMORY_SUPPORTS
