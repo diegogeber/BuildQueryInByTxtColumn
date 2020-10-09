@@ -31,15 +31,15 @@ public class Test {
 			}else if(elements == 1){
 				bw.write("or u.cod_usu in ('" + line + "',");
 				bw.newLine();
-	    	}else{
-	    		bw.write("'" + line + "')");
+	    		}else{
+	    			bw.write("'" + line + "')");
 				bw.newLine();
 				elements = 1;
-	    		continue;
-		    }	 
+	    			continue;
+		    	}	 
 			elements++;
 		}
 		bw.close();
-	    br.close();
+	    	br.close();
 	}
 }
